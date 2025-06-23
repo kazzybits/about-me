@@ -15,6 +15,6 @@ function moveBall() {
     requestAnimationFrame(moveBall);
 }
 
-requestAnimationFrame(moveBall);
+//requestAnimationFrame(moveBall);
 
 document.body.style.backgroundColor = 'lightblue';
